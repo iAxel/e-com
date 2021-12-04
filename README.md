@@ -2,7 +2,8 @@
 
 ### Features
 - Authentication with multiple sessions
-- List of clients models
+- List of users
+- List of clients
 - List of client orders
 - List of client transactions
 
@@ -13,9 +14,10 @@
 
 ### Actions before start
 1. Create User on MySQL
-2. Create Database on Mysql
-3. Configure .env file
-4. Enjoy :)
+2. Create Database on MySQL
+3. Copy .env.example to .env
+4. Configure .env file
+5. Enjoy :)
 
 ### Fast start
 1. Run `composer install` command
